@@ -1,2 +1,3 @@
 # 95-COL106-DSA-
-It contains all the assignments that I have completed in the course of COL106 (Data structure and algorithms).
+This is my personal GitHub repository for my Data Structures and Algorithms (DSA) course. I'm using this repository to organize my coursework, code, and resources for the course.
+
